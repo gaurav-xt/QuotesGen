@@ -1,1 +1,1 @@
-no
+Quote OF Day
