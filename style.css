@@ -26,6 +26,14 @@ body{
     font-family: "Atkinson Hyperlegible Mono", sans-serif;
 }
 
+@media  (max-width:750px) {
+    .quote-box{
+        width: 90%;
+        padding: 20px;
+    }
+    
+}
+
 .quote-box h2{
     font-size: 2.5rem;
     margin-bottom: 1.9rem;
